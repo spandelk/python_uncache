@@ -1,0 +1,3 @@
+python-magic>=0.4.15
+colorama>=0.4.1
+termcolor>=1.1.0
