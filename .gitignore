@@ -104,6 +104,5 @@ venv.bak/
 .mypy_cache/
 
 #custom
-env/
 releases/
 *.sublime*
